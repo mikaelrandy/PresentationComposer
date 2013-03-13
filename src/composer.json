@@ -1,0 +1,29 @@
+
+
+
+
+{
+	"name": "PhpTourNantes/presentation",
+    "require": {
+        "silex/silex": "1.0.x-dev"  
+    },
+    "require-dev": {
+    	"atoum/atoum": "dev-master"
+    }
+}
+
+
+{
+    "repositories": [ { "type": "composer", "url": "http://packages.example.org/" } ],
+	"require": {
+		"PhpTourNantes/presentation"
+	}
+}
+
+
+
+{
+    "require": {
+        "phptournantes/presentation": "*",
+    }
+}
